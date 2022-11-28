@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbatavani
 - 👀 I’m interested in epidemiology and healthcare data analytics. Free and open source software enthusiast.
 - 🌱 I’m currently learning more about C programming language 
-- 💞️ I’m looking to collaborate on free, libre and open source projects. 
+- 💞️ I’m looking to collaborate on free, libre and open source software projects. 
 - 📫 How to reach me: You can visit my website - https://batavani.com  I'll add more contact details later. 
 
 <!---
